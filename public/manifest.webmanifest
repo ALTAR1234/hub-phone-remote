@@ -1,0 +1,10 @@
+{
+  "name": "Hub",
+  "short_name": "Hub",
+  "description": "Control Listener, Gamer, Weber and Streamer on your PC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121217",
+  "theme_color": "#121217",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}

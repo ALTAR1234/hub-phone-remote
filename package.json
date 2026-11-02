@@ -1,0 +1,11 @@
+{
+  "name": "phone-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Phone remote for Listener, Gamer, Weber and Streamer",
+  "type": "module",
+  "main": "server.mjs",
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
